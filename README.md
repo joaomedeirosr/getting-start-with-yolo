@@ -158,10 +158,9 @@ wget https://github.com/AlexeyAB/darknet/releases download/darknet_yolo_v3_optim
 
 <br>
 
-|  CPU   | Time (s) | Person | Dog | Horse |     |     |     |
-| :----: | :------: | -----: | --: | ----: | --: | --: | --: |
-| Mac M1 |  7, 27   |   100% | 99% |   98% |     |     |
-|        |          |        |     |       |     |     |     |
+|  CPU   | Time (s) | Person | Dog | Horse |          
+| :----: | :------: | -----: | --: | ----: |    
+| Mac M1 |  7, 27   |   100% | 99% |   98% |          
 
 <br>
 
