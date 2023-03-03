@@ -166,3 +166,18 @@ wget https://github.com/AlexeyAB/darknet/releases download/darknet_yolo_v3_optim
 <br>
 
 <img src=https://user-images.githubusercontent.com/88453005/222823017-b7f547c3-539a-42b0-b9ca-ad55d7f16e11.png>
+  
+  
+  <br>
+  
+  ## Caso queira contribuir com o conhecimento basta fazer um clone toda ajuda será bem vinda!
+  ```ini
+  git clone https://github.com/joaomedeirosr/getting-start-with-yolo.git
+  ```
+  
+  
+ Author: 
+  João Victor Medeiros Rocha 
+  Computer Vision and Machine Learning Eng at Kasco R&D
+  
+  
