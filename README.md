@@ -14,7 +14,7 @@
 
 <br>
 
-- Cada célula deste grid ou seja cada quadradinho do grid é responsável de realizar a predição de até <b>5 Bouding Box</b>. Isso se deve ao fato de que dentro de um mesmo quadradinho do grid podemos ter 1 ou mais objetos nesta cena. Portanto, com <b>5 BBox</b>. O YOLO, tenta contornar o problema de ter mais de 1 objeto na mesma célula de grid.
+- Cada célula deste grid ou seja cada quadradinho do grid é responsável de realizar a predição de até <b>5 Bouding Box</b>. Isso se deve ao fato de que dentro de um mesmo quadradinho do grid podemos ter 1 ou mais objetos nesta cena. Portanto, com <b>5 BBox</b>. O YOLO, tenta contornar o problema de se ter multiplos objeto na mesma célula do grid.
 
 <br>
 
