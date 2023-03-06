@@ -45,7 +45,7 @@
 
 <br>
 
-- O YOLO por padrão foi <b> pré treinado</b> com um dataset ou conjunto de dados chamado <b><b?> COCO (Common Objects in Context) que possui 80 Classes diferentes</b>. Quando baixamos o COCO basicamente estamos buscando os pesos pré treinados para que seja possível executar o YOLO para estas classes pré treinadas e assim conseguiremos obter as deteccões dos objetos.
+- O YOLO por padrão foi <b> pré treinado</b> com um dataset ou conjunto de dados chamado <b>COCO (Common Objects in Context) que possui 80 Classes diferentes</b>. Quando baixamos o COCO basicamente estamos buscando os pesos pré treinados para que seja possível executar o YOLO para estas classes pré treinadas e assim conseguiremos obter as deteccões dos objetos.
 
 - <b>Consulte o site oficial do dataset COCO: <https://cocodataset.org/#home> </b>
 
